@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FullStackTest\\Lesson2\\ProjectTestFullStack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D5866-CB34-4F8E-B4A5-E8E1AF49F4F1}|ProjectTestFullStack\\ProjectTestFullStack.csproj|d:\\fullstacktest\\lesson2\\projecttestfullstack\\projecttestfullstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D5866-CB34-4F8E-B4A5-E8E1AF49F4F1}|ProjectTestFullStack\\ProjectTestFullStack.csproj|solutionrelative:projecttestfullstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D5866-CB34-4F8E-B4A5-E8E1AF49F4F1}|ProjectTestFullStack\\ProjectTestFullStack.csproj|d:\\fullstacktest\\lesson2\\projecttestfullstack\\projecttestfullstack\\studentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D5866-CB34-4F8E-B4A5-E8E1AF49F4F1}|ProjectTestFullStack\\ProjectTestFullStack.csproj|solutionrelative:projecttestfullstack\\studentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D5866-CB34-4F8E-B4A5-E8E1AF49F4F1}|ProjectTestFullStack\\ProjectTestFullStack.csproj|d:\\fullstacktest\\lesson2\\projecttestfullstack\\projecttestfullstack\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D5866-CB34-4F8E-B4A5-E8E1AF49F4F1}|ProjectTestFullStack\\ProjectTestFullStack.csproj|solutionrelative:projecttestfullstack\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentProcessor.cs",
+              "DocumentMoniker": "D:\\FullStackTest\\Lesson2\\ProjectTestFullStack\\ProjectTestFullStack\\StudentProcessor.cs",
+              "RelativeDocumentMoniker": "ProjectTestFullStack\\StudentProcessor.cs",
+              "ToolTip": "D:\\FullStackTest\\Lesson2\\ProjectTestFullStack\\ProjectTestFullStack\\StudentProcessor.cs",
+              "RelativeToolTip": "ProjectTestFullStack\\StudentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:18:08.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\FullStackTest\\Lesson2\\ProjectTestFullStack\\ProjectTestFullStack\\Student.cs",
+              "RelativeDocumentMoniker": "ProjectTestFullStack\\Student.cs",
+              "ToolTip": "D:\\FullStackTest\\Lesson2\\ProjectTestFullStack\\ProjectTestFullStack\\Student.cs",
+              "RelativeToolTip": "ProjectTestFullStack\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:18:06.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FullStackTest\\Lesson2\\ProjectTestFullStack\\ProjectTestFullStack\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectTestFullStack\\Program.cs",
+              "ToolTip": "D:\\FullStackTest\\Lesson2\\ProjectTestFullStack\\ProjectTestFullStack\\Program.cs",
+              "RelativeToolTip": "ProjectTestFullStack\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:49:32.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ZKItiLjx6s=",
+  "success": true,
+  "projectFilePath": "D:\\FullStackTest\\Lesson2\\ProjectTestFullStack\\ProjectTestFullStack\\ProjectTestFullStack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dongh\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.2\\microsoft.extensions.dependencyinjection.6.0.2.nupkg.sha512",
+    "C:\\Users\\dongh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
