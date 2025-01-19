@@ -1,0 +1,19 @@
+# Bỏ qua thư mục node_modules (React)
+node_modules/
+
+# Bỏ qua thư mục build (React)
+build/
+
+# Bỏ qua thư mục bin và obj (cho .NET 6)
+bin/
+obj/
+
+# Bỏ qua các file cấu hình của môi trường phát triển (Visual Studio)
+.vs/
+.vscode/
+
+# Bỏ qua các file của .NET Core
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
